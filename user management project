@@ -1,0 +1,47 @@
+# Linux User & Group Management Project
+
+## 📌 Overview
+This project demonstrates Linux system administration tasks related to user and group management without using scripting.
+
+---
+
+## 🎯 Objectives
+- Create and manage users
+- Create and manage groups
+- Configure password policies
+- Assign sudo privileges
+- Set file permissions and ownership
+
+---
+
+## 🧰 Commands Used
+- useradd
+- usermod
+- userdel
+- passwd
+- chage
+- groupadd
+- visudo
+- chmod
+- chown
+
+---
+
+## ⚙️ Tasks Performed
+- Created multiple users and groups
+- Forced password change on first login
+- Added users to sudo group
+- Managed file access permissions
+
+---
+
+## 💻 Environment
+- RHEL 8 / Ubuntu
+- VMware Virtual Machine
+
+---
+
+## ✅ Skills Demonstrated
+- Linux Administration
+- Access Control
+- User Security Management
